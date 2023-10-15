@@ -1,10 +1,8 @@
 # Net-Explorer
 Net Explorer is a web browser like Microsoft Edge.
 
-GUI toolkit: JavaFX
-
 Features:
-
+<br/>
 • Home Button
 
 • Address bar
@@ -16,13 +14,15 @@ Features:
 • Refresh button
 
 • History button
-
+<br/>
+GUI toolkit: JavaFX
+<br/>
 Software Used: 
-
+<br/>
 • Netbeans 8.2
 
 • Scene Builder
 
 • XAMPP 8.0.3
 
-YouTube link: https://www.youtube.com/watch?v=XhUf8l_xL0M&t=9s
+<br/>YouTube link: https://www.youtube.com/watch?v=XhUf8l_xL0M&t=9s
